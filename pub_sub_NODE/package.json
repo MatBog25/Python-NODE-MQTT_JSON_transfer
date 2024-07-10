@@ -1,0 +1,18 @@
+{
+  "name": "node_mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "aedes": "^0.47.0",
+    "mqtt": "^4.3.7",
+    "net": "^1.0.2",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
